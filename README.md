@@ -37,3 +37,4 @@ Then open http://localhost:3000
 - The app uses the Claude API (claude-sonnet-4-20250514) for AI readings
 - No API key needed — it uses Claude's built-in browser access
 - Free to use within Claude's usage limits
+- Have fun
