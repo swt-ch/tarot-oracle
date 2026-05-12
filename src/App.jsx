@@ -246,7 +246,7 @@ Please provide a thoughtful, poetic, and empowering tarot reading. Requirements:
             "x-api-key": process.env.REACT_APP_ANTHROPIC_KEY || "",
         },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-5",
           max_tokens: 600,
           messages: [{ role: "user", content: prompt }],
         }),
